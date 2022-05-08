@@ -5,7 +5,7 @@ The purpose of this analysis is to apply machine learning to solve credit card r
 # 2. Results
 
 The "loan status" was used to determine whether the application was considered "low" or "high" risk. Applications that had "current" as the "loan status" were classified as "low risk" and the remaining as "high risk". The dataset is about 68,840 total applications with 99% classified as "low risk".
-Using the 75/25% method to split the data for training vs. testing, 68,470 "low risk" and 347 "high risk" applications were categorized into the training set.
+Using the 75/25 method to split the data for training vs. testing, 68,470 "low risk" and 347 "high risk" applications were categorized into the training set.
 
 ## 2.1	RandomOverSampler
 Resampling involves creating a new transformed version of the training dataset in which the selected examples have a different class distribution. This is a simple and effective strategy for imbalanced classification problems. Applying re-sampling strategies to obtain a more balanced data distribution is an effective solution to the imbalance problem. This model RandomOverSampler, involves randomly selecting examples from the minority class, with replacement, and adding them to the training dataset.
