@@ -53,7 +53,7 @@ This model makes undersampling by generating a new set based on centroids by clu
 
 ### 2.3.1 Accuracy score 
 
-![image](https://user-images.githubusercontent.com/95872614/167276344-5903ff1b-976d-487e-91e5-1dcbc49a7ae4.png)
+![image](https://user-images.githubusercontent.com/95872614/167276358-d9cc2839-bdec-40c5-803b-94f50e08e05f.png)
 
 The balance accuracy score is 52%
 
