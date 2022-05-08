@@ -13,7 +13,7 @@ Resampling involves creating a new transformed version of the training dataset i
 ### 2.1.1	Accuracy score 
 The balance accuracy score is 65%
 
-![image](https://user-images.githubusercontent.com/95872614/167276119-427751c7-1b38-4dba-a49d-2a970ac65a46.png)
+![image](https://user-images.githubusercontent.com/95872614/167276312-5e6375cf-21c6-4843-84f3-0af79940fb50.png)
 
 ### 2.1.2 Confusion matrix and imbalanced classification report 
 
