@@ -34,7 +34,7 @@ Increases the size of the minority class by creating new values based on the val
 
 The balance accuracy score is 62%
 
-![image](https://user-images.githubusercontent.com/95872614/167276146-70dfbf41-6bd4-4e85-9e0b-79e22449dcd5.png)
+![image](https://user-images.githubusercontent.com/95872614/167276329-cbf4f0b9-a5a0-412e-8d93-14145e60afdc.png)
 
 ### 2.2.2 Confusion matrix and imbalanced classification report
 
